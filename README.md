@@ -2,7 +2,7 @@
 
 Application web fullstack Space X 🚀 🪐
 
-![alt text](https://github.com/Dramane-dev/SpaceX-API-GraphQL-React/spacex-base.jpeg?raw=true)
+![alt text](https://github.com/Dramane-dev/SpaceX-API-GraphQL-React/blob/master/spacex-base.jpeg?raw=true)
 
 
 Tutorial ===> [Apollo tutorial](http://apollographql.com/docs/tutorial/introduction.html). 🚀
