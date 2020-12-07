@@ -1,3 +1,3 @@
 # Space X API 
 
-## Client
+## Server 
